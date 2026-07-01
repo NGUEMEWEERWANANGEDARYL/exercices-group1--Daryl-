@@ -1,0 +1,51 @@
+body {
+   
+
+  background-color: papayawhip;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+    color: black;
+  font-family: Tahoma;
+  font-size: 20px;
+  
+  text-indent: 30px;
+  p.solid {outline-style: solid;}
+
+}
+
+.EDUCATION{
+     border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+  word-wrap: break-word;
+
+  }
+  .FAMILY{
+     border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+  word-wrap: break-word;
+
+  }
+  .OBJECTIVES{
+     border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+  word-wrap: break-word;
+  }
+  .HOBBIES{
+     border: 1px solid black;
+  margin: 20px;
+  padding: 20px;
+  word-wrap: break-word;
+  }
+
+  img{
+     border-radius: 100%;
+  }
