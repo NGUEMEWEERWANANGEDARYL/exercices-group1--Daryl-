@@ -1,0 +1,53 @@
+ body {
+   
+
+  background-color: papayawhip;
+}
+.INGREDIENTS{
+  display: flex;
+  flex-direction: column;
+  border: 10px solid indianred;
+  color: brown;
+  margin: 20px;
+  padding: 20px;
+}
+#element1{
+  display: flex;
+  justify-content:space-between ;
+}
+#element1 ul{
+  font-size: 25px;
+  font-style: initial;
+  list-style-type:circle;
+  line-height:200%;
+}
+#element1 hr{
+  border: none;
+  border-radius: 4px;
+  width: 8px;
+  background-color: brown;
+}
+
+.RECIPE{
+     border: 10px;
+     word-spacing:10px;
+  margin: 20px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+#pastaimg{
+    height: 400px; 
+    width: 400px;
+    /* margin-right: 100px; */
+    /* margin-top: 50px; */
+    border-radius: 10px;
+}
+a:hover {
+  background-color: yellow;
+  font-size: 18px;
+}
+body:hover {
+  background-color: yellow;
+  font-size: 18px;
+}
